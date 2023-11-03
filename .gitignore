@@ -1,3 +1,5 @@
-/uploads/profilePic/
-/uploads/resume/
-node_modules
+node_modules/
+uploads/profilePic/*
+!uploads/profilePic/.gitkeep
+uploads/resume/*
+!uploads/resume/.gitkeep
